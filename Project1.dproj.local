@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/04 16:07:53.000.340,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/04 19:37:14.000.125,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\usuario\Documents\Calculadora-em-Delphi\Calculadora.pas</Transaction>
+    <Transaction>2022/06/04 19:37:14.000.125,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\usuario\Documents\Calculadora-em-Delphi\Calculadora.dfm</Transaction>
+    <Transaction>2022/06/04 19:38:37.000.516,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\usuario\Documents\calculadora-em-delphi\Project1.dproj</Transaction>
+    <Transaction>2022/06/04 19:45:40.000.197,C:\Users\usuario\Documents\calculadora-em-delphi\Project1.dproj=C:\Users\usuario\Desktop\Nova pasta\Project1.dproj</Transaction>
+    <Transaction>2022/06/04 19:46:21.000.371,C:\Users\usuario\Documents\Calculadora-em-Delphi\Calculadora.pas=C:\Users\usuario\Desktop\Nova pasta\Calculadora.pas</Transaction>
+    <Transaction>2022/06/04 19:46:21.000.371,C:\Users\usuario\Documents\Calculadora-em-Delphi\Calculadora.dfm=C:\Users\usuario\Desktop\Nova pasta\Calculadora.dfm</Transaction>
+    <Transaction>2022/06/04 19:56:14.467,C:\Users\usuario\Documents\Nova pasta\Project1.dproj=C:\Users\usuario\Desktop\Nova pasta\Project1.dproj</Transaction>
+    <Transaction>2022/06/04 19:56:31.913,C:\Users\usuario\Documents\Nova pasta\Calculadora.pas=C:\Users\usuario\Desktop\Nova pasta\Calculadora.pas</Transaction>
+    <Transaction>2022/06/04 19:56:31.913,C:\Users\usuario\Documents\Nova pasta\Calculadora.dfm=C:\Users\usuario\Desktop\Nova pasta\Calculadora.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
